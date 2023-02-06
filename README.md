@@ -1,8 +1,8 @@
 # python-docker-starter
 
-Starter package for containerized python app.
+Starter package for a Python 🐍 app with Docker.
 
-# Get Started
+# ✅ Get Started
 
 Run the following commands to create a virtual environment called `env`, activate it and install packages listed in `requirements.txt`.
 
