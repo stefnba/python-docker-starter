@@ -1,0 +1,14 @@
+.env
+Dockerfile*
+.dockerignore
+.git
+.gitignore
+docker-compose*
+.prettierrc
+README.md
+*.code-workspace
+.github
+deploy
+scripts
+.pylintrc
+LICENSE
