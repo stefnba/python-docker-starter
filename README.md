@@ -7,9 +7,7 @@ Starter package for a Python 🐍 app with Docker.
 Run the following commands to create a virtual environment called `env`, activate it and install packages listed in `requirements.txt`.
 
 ```console
-python3 -m venv env
-source env/bin/activate
-python3 -m pip install --upgrade pip
-pip install -U black
+conda create -p .conda python=3.10
+conda activate "$PWD/.conda"
 pip install -r requirements.txt
 ```
